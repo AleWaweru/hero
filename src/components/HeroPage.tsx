@@ -23,7 +23,7 @@ const HeroPage = () => {
           <a href="/apps" className="block md:inline-block px-4 py-2">Apps</a>
           <a href="/blog" className="block md:inline-block px-4 py-2">Blog</a>
         </div>
-        <div className="text-2xl p-4 w-full md:w-[50%] text-white font-bold">Pixels</div>
+        <div className="text-2xl xl:ml-10 p-4 w-full md:w-[50%] text-white font-bold flex justify-center">Pixels</div>
         <div className="w-[100%]  h-[70%] mt-4  md:mt-1  md:w-[80%] bg-gray-100 xl:w-[20%] xl:p-1.5 xl:h-[80%] md:p-3 rounded-full text-center flex flex-col items-center">
           <div className="flex  mt-1 md:mt-2 md:h-[90%] ">
             <h1>Contact Us</h1>
